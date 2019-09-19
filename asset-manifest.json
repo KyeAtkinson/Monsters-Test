@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/Monsters-Test/static/css/main.b6cd63d0.chunk.css",
-    "main.js": "/github.io/Monsters-Test/static/js/main.62c311fe.chunk.js",
-    "main.js.map": "/github.io/Monsters-Test/static/js/main.62c311fe.chunk.js.map",
-    "runtime~main.js": "/github.io/Monsters-Test/static/js/runtime~main.64fefa9d.js",
-    "runtime~main.js.map": "/github.io/Monsters-Test/static/js/runtime~main.64fefa9d.js.map",
-    "static/js/2.a78270bf.chunk.js": "/github.io/Monsters-Test/static/js/2.a78270bf.chunk.js",
-    "static/js/2.a78270bf.chunk.js.map": "/github.io/Monsters-Test/static/js/2.a78270bf.chunk.js.map",
-    "index.html": "/github.io/Monsters-Test/index.html",
-    "precache-manifest.52118f1bc47026aafaf9ce748a0e7122.js": "/github.io/Monsters-Test/precache-manifest.52118f1bc47026aafaf9ce748a0e7122.js",
-    "service-worker.js": "/github.io/Monsters-Test/service-worker.js",
-    "static/css/main.b6cd63d0.chunk.css.map": "/github.io/Monsters-Test/static/css/main.b6cd63d0.chunk.css.map"
+    "main.css": "/Monsters-Test/static/css/main.b6cd63d0.chunk.css",
+    "main.js": "/Monsters-Test/static/js/main.23d3f8c6.chunk.js",
+    "main.js.map": "/Monsters-Test/static/js/main.23d3f8c6.chunk.js.map",
+    "runtime~main.js": "/Monsters-Test/static/js/runtime~main.0fa83e18.js",
+    "runtime~main.js.map": "/Monsters-Test/static/js/runtime~main.0fa83e18.js.map",
+    "static/js/2.a78270bf.chunk.js": "/Monsters-Test/static/js/2.a78270bf.chunk.js",
+    "static/js/2.a78270bf.chunk.js.map": "/Monsters-Test/static/js/2.a78270bf.chunk.js.map",
+    "index.html": "/Monsters-Test/index.html",
+    "precache-manifest.2f74563fd516ff76fcd01c09d6c18c22.js": "/Monsters-Test/precache-manifest.2f74563fd516ff76fcd01c09d6c18c22.js",
+    "service-worker.js": "/Monsters-Test/service-worker.js",
+    "static/css/main.b6cd63d0.chunk.css.map": "/Monsters-Test/static/css/main.b6cd63d0.chunk.css.map"
   }
 }
